@@ -1,6 +1,6 @@
 {
   "name": "next-cms-kit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "description": "A Content Management System kit for Next.js that is fully customizable and extendable.",
   "keywords": [
